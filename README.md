@@ -14,4 +14,5 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+Testnet: Rinkeby
 deployed contract's address: 0xc1b5Baf19b00Cf17b9FeF731ce5807A598230789
